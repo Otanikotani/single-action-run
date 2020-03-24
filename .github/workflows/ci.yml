@@ -14,4 +14,24 @@ jobs:
     - name: Run a multi-line script
       run: |
         echo Add other actions to build,
+        sleep 2m
+        echo 2m passed
+        sleep 2m
+        echo 2m passed
+        sleep 2m
+        echo 2m passed
+        sleep 2m
+        echo 2m passed
+        sleep 2m
+        echo 2m passed
+        sleep 2m
+        echo 2m passed
+        sleep 2m
+        echo 2m passed
+        sleep 2m
+        echo 2m passed
+        sleep 2m
+        echo 2m passed
+        sleep 2m
+        echo 2m passed
         echo test, and deploy your project.
